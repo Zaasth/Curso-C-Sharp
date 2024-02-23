@@ -1,0 +1,5 @@
+Nome da magia: Escudo Arcano
+Lv da magia:Abjuração
+Classes conjuradoras: Feiticeiro, Mago
+Tempo de conjuração: 1 reação
+

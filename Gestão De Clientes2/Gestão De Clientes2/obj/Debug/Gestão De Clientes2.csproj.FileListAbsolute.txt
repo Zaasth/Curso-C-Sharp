@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\source\repos\Gestão De Clientes2\Gestão De Clientes2\bin\Debug\Gestão De Clientes2.exe.config
+C:\Users\T-GAMER\source\repos\Gestão De Clientes2\Gestão De Clientes2\bin\Debug\Gestão De Clientes2.exe
+C:\Users\T-GAMER\source\repos\Gestão De Clientes2\Gestão De Clientes2\bin\Debug\Gestão De Clientes2.pdb
+C:\Users\T-GAMER\source\repos\Gestão De Clientes2\Gestão De Clientes2\obj\Debug\Gestão De Clientes2.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\Gestão De Clientes2\Gestão De Clientes2\obj\Debug\Gestão De Clientes2.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Gestão De Clientes2\Gestão De Clientes2\obj\Debug\Gestão De Clientes2.exe
+C:\Users\T-GAMER\source\repos\Gestão De Clientes2\Gestão De Clientes2\obj\Debug\Gestão De Clientes2.pdb

@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\source\repos\Gerador de senha aleatorio\Gerador de senha aleatorio\bin\Debug\Gerador de senha aleatorio.exe.config
+C:\Users\T-GAMER\source\repos\Gerador de senha aleatorio\Gerador de senha aleatorio\bin\Debug\Gerador de senha aleatorio.exe
+C:\Users\T-GAMER\source\repos\Gerador de senha aleatorio\Gerador de senha aleatorio\bin\Debug\Gerador de senha aleatorio.pdb
+C:\Users\T-GAMER\source\repos\Gerador de senha aleatorio\Gerador de senha aleatorio\obj\Debug\Gerador de senha aleatorio.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\Gerador de senha aleatorio\Gerador de senha aleatorio\obj\Debug\Gerador de senha aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Gerador de senha aleatorio\Gerador de senha aleatorio\obj\Debug\Gerador de senha aleatorio.exe
+C:\Users\T-GAMER\source\repos\Gerador de senha aleatorio\Gerador de senha aleatorio\obj\Debug\Gerador de senha aleatorio.pdb

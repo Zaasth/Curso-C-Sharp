@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\source\repos\Do while\Do while\bin\Debug\Do while.exe.config
+C:\Users\T-GAMER\source\repos\Do while\Do while\bin\Debug\Do while.exe
+C:\Users\T-GAMER\source\repos\Do while\Do while\bin\Debug\Do while.pdb
+C:\Users\T-GAMER\source\repos\Do while\Do while\obj\Debug\Do while.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\Do while\Do while\obj\Debug\Do while.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Do while\Do while\obj\Debug\Do while.exe
+C:\Users\T-GAMER\source\repos\Do while\Do while\obj\Debug\Do while.pdb

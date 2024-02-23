@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\source\repos\Combos de magias\Combos de magias\bin\Debug\Combos de magias.exe.config
+C:\Users\T-GAMER\source\repos\Combos de magias\Combos de magias\bin\Debug\Combos de magias.exe
+C:\Users\T-GAMER\source\repos\Combos de magias\Combos de magias\bin\Debug\Combos de magias.pdb
+C:\Users\T-GAMER\source\repos\Combos de magias\Combos de magias\obj\Debug\Combos de magias.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\Combos de magias\Combos de magias\obj\Debug\Combos de magias.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Combos de magias\Combos de magias\obj\Debug\Combos de magias.exe
+C:\Users\T-GAMER\source\repos\Combos de magias\Combos de magias\obj\Debug\Combos de magias.pdb

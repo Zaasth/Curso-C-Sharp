@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\source\repos\Calculadora3\Calculadora3\bin\Debug\Calculadora3.exe.config
+C:\Users\T-GAMER\source\repos\Calculadora3\Calculadora3\bin\Debug\Calculadora3.exe
+C:\Users\T-GAMER\source\repos\Calculadora3\Calculadora3\bin\Debug\Calculadora3.pdb
+C:\Users\T-GAMER\source\repos\Calculadora3\Calculadora3\obj\Debug\Calculadora3.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\Calculadora3\Calculadora3\obj\Debug\Calculadora3.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Calculadora3\Calculadora3\obj\Debug\Calculadora3.exe
+C:\Users\T-GAMER\source\repos\Calculadora3\Calculadora3\obj\Debug\Calculadora3.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estruturas de repetições exercicio2", "estruturas de repetições exercicio2\estruturas de repetições exercicio2.csproj", "{E6E4BEAA-7BF4-40C9-B40F-B1D9FCAC109C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E4BEAA-7BF4-40C9-B40F-B1D9FCAC109C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E4BEAA-7BF4-40C9-B40F-B1D9FCAC109C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E4BEAA-7BF4-40C9-B40F-B1D9FCAC109C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E4BEAA-7BF4-40C9-B40F-B1D9FCAC109C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F591350-5020-48E9-A1DC-CF4A4A81E25E}
+	EndGlobalSection
+EndGlobal

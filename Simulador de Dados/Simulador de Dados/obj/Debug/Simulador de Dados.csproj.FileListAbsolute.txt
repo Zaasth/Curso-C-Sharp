@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\source\repos\Simulador de Dados\Simulador de Dados\bin\Debug\Simulador de Dados.exe.config
+C:\Users\T-GAMER\source\repos\Simulador de Dados\Simulador de Dados\bin\Debug\Simulador de Dados.exe
+C:\Users\T-GAMER\source\repos\Simulador de Dados\Simulador de Dados\bin\Debug\Simulador de Dados.pdb
+C:\Users\T-GAMER\source\repos\Simulador de Dados\Simulador de Dados\obj\Debug\Simulador de Dados.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\Simulador de Dados\Simulador de Dados\obj\Debug\Simulador de Dados.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Simulador de Dados\Simulador de Dados\obj\Debug\Simulador de Dados.exe
+C:\Users\T-GAMER\source\repos\Simulador de Dados\Simulador de Dados\obj\Debug\Simulador de Dados.pdb

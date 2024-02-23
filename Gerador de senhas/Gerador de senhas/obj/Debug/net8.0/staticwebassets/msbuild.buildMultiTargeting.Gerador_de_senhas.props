@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gerador_de_senhas.props" />
+</Project>

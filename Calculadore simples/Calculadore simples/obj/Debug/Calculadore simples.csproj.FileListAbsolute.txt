@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\source\repos\Calculadore simples\Calculadore simples\bin\Debug\Calculadore simples.exe.config
+C:\Users\T-GAMER\source\repos\Calculadore simples\Calculadore simples\bin\Debug\Calculadore simples.exe
+C:\Users\T-GAMER\source\repos\Calculadore simples\Calculadore simples\bin\Debug\Calculadore simples.pdb
+C:\Users\T-GAMER\source\repos\Calculadore simples\Calculadore simples\obj\Debug\Calculadore simples.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\Calculadore simples\Calculadore simples\obj\Debug\Calculadore simples.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Calculadore simples\Calculadore simples\obj\Debug\Calculadore simples.exe
+C:\Users\T-GAMER\source\repos\Calculadore simples\Calculadore simples\obj\Debug\Calculadore simples.pdb

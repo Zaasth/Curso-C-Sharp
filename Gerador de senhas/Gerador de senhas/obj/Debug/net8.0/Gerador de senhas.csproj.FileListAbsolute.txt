@@ -1,0 +1,29 @@
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\bin\Debug\net8.0\appsettings.json
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\bin\Debug\net8.0\Gerador_de_senhas.staticwebassets.runtime.json
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\bin\Debug\net8.0\Gerador_de_senhas.exe
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\bin\Debug\net8.0\Gerador_de_senhas.deps.json
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\bin\Debug\net8.0\Gerador_de_senhas.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\bin\Debug\net8.0\Gerador_de_senhas.dll
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\bin\Debug\net8.0\Gerador_de_senhas.pdb
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\Gerador de senhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\Gerador de senhas.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\Gerador de senhas.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\Gerador de senhas.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\Gerador_de_senhas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\staticwebassets\msbuild.Gerador_de_senhas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\staticwebassets\msbuild.build.Gerador_de_senhas.props
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gerador_de_senhas.props
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gerador_de_senhas.props
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\scopedcss\bundle\Gerador_de_senhas.styles.css
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\scopedcss\projectbundle\Gerador_de_senhas.bundle.scp.css
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\Gerador_de_senhas.dll
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\refint\Gerador_de_senhas.dll
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\Gerador_de_senhas.pdb
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\Gerador de senhas.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\Gerador de senhas\Gerador de senhas\obj\Debug\net8.0\ref\Gerador_de_senhas.dll

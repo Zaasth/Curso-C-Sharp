@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\source\repos\combos1\combos1\bin\Debug\combos1.exe.config
+C:\Users\T-GAMER\source\repos\combos1\combos1\bin\Debug\combos1.exe
+C:\Users\T-GAMER\source\repos\combos1\combos1\bin\Debug\combos1.pdb
+C:\Users\T-GAMER\source\repos\combos1\combos1\obj\Debug\combos1.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\combos1\combos1\obj\Debug\combos1.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\combos1\combos1\obj\Debug\combos1.exe
+C:\Users\T-GAMER\source\repos\combos1\combos1\obj\Debug\combos1.pdb

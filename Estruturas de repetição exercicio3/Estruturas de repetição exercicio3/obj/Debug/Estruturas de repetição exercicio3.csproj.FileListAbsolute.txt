@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\source\repos\Estruturas de repetição exercicio3\Estruturas de repetição exercicio3\bin\Debug\Estruturas de repetição exercicio3.exe.config
+C:\Users\T-GAMER\source\repos\Estruturas de repetição exercicio3\Estruturas de repetição exercicio3\bin\Debug\Estruturas de repetição exercicio3.exe
+C:\Users\T-GAMER\source\repos\Estruturas de repetição exercicio3\Estruturas de repetição exercicio3\bin\Debug\Estruturas de repetição exercicio3.pdb
+C:\Users\T-GAMER\source\repos\Estruturas de repetição exercicio3\Estruturas de repetição exercicio3\obj\Debug\Estruturas de repetição exercicio3.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\Estruturas de repetição exercicio3\Estruturas de repetição exercicio3\obj\Debug\Estruturas de repetição exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Estruturas de repetição exercicio3\Estruturas de repetição exercicio3\obj\Debug\Estruturas de repetição exercicio3.exe
+C:\Users\T-GAMER\source\repos\Estruturas de repetição exercicio3\Estruturas de repetição exercicio3\obj\Debug\Estruturas de repetição exercicio3.pdb

@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\source\repos\estruturas de repetições exercicio2\estruturas de repetições exercicio2\bin\Debug\estruturas de repetições exercicio2.exe.config
+C:\Users\T-GAMER\source\repos\estruturas de repetições exercicio2\estruturas de repetições exercicio2\bin\Debug\estruturas de repetições exercicio2.exe
+C:\Users\T-GAMER\source\repos\estruturas de repetições exercicio2\estruturas de repetições exercicio2\bin\Debug\estruturas de repetições exercicio2.pdb
+C:\Users\T-GAMER\source\repos\estruturas de repetições exercicio2\estruturas de repetições exercicio2\obj\Debug\estruturas de repetições exercicio2.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\estruturas de repetições exercicio2\estruturas de repetições exercicio2\obj\Debug\estruturas de repetições exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\estruturas de repetições exercicio2\estruturas de repetições exercicio2\obj\Debug\estruturas de repetições exercicio2.exe
+C:\Users\T-GAMER\source\repos\estruturas de repetições exercicio2\estruturas de repetições exercicio2\obj\Debug\estruturas de repetições exercicio2.pdb
